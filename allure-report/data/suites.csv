@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","17365","Amazon search with invalid item","chromium","Wed May 14 11:34:42 IST 2025","passed","Wed May 14 11:34:59 IST 2025","","main.spec.js","",""
+"","19627","Amazon search and sort test","chromium","Wed May 14 11:34:42 IST 2025","passed","Wed May 14 11:35:02 IST 2025","","main.spec.js","",""
+"","10470","Amazon search and sort test","Microsoft Edge","Wed May 14 11:34:42 IST 2025","passed","Wed May 14 11:34:52 IST 2025","","main.spec.js","",""
+"","6686","Amazon search with invalid item","Microsoft Edge","Wed May 14 11:34:43 IST 2025","passed","Wed May 14 11:34:49 IST 2025","","main.spec.js","",""
