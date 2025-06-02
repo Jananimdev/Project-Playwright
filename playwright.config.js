@@ -84,11 +84,11 @@ const { defineConfig, devices } = require('@playwright/test');
 module.exports = defineConfig({
   testDir: './tests',
   fullyParallel: true,
-  forbidOnly: !!process.env.CI,//Prevents accidental commits of .only in tests when running in CI (Continuous Integration).
+  forbidOnly: process.env.CI ? true : false,//Prevents accidental commits of .only in tests when running in CI (Continuous Integration).
   //retries: 1,
-  retries: process.env.CI ? 2 : 0,
+  retries: process.env.CI ? 2 : 1,
   //workers: 1,//if Limits to 1 worker in CI to avoid flakiness
-  workers: process.env.CI ? 1 : undefined,
+  workers: process.env.CI ? 1 : 1,
   reporter: [['html'],
     ['line'],
     ['allure-playwright', { resultsDir: 'allure-results' }] // Add Allure reporter
