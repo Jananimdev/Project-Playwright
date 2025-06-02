@@ -1,0 +1,502 @@
+Results: [
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '        \n' +
+    '            \n' +
+    '                \n' +
+    '                    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '            \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '    \n' +
+    '    \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '        Results\n' +
+    '    \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '        \n' +
+    '            \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '    \n' +
+    '        \n' +
+    '            \n' +
+    '            \n' +
+    '                \n' +
+    '            \n' +
+    '            \n' +
+    '        \n' +
+    '        Check each product page for other buying options.\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '        \n' +
+    '    \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '                \n' +
+    '            \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    SponsoredSponsored You are seeing this ad based on the product’s relevance to your search query.Let us know  Pikkme Vivo Y12 / Y15 /Y17 / U10 Flip Cover Magnetic Leather Wallet Case Shockproof TPU for Vivo Y12 / Y15 /Y17 / U10 (Grey) 3.8 out of 5 stars 104  Price, product page₹299₹299 M.R.P: ₹999M.R.P: ₹999₹999 (70% off) FREE delivery Sat, 7 Jun on ₹499 of items fulfilled by AmazonAdd to cart\n' +
+    '\n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    SponsoredSponsored You are seeing this ad based on the product’s relevance to your search query.Let us know  Pikkme Vivo Y12 / Y15 / Y17 / U10 Back Cover Soft Matte Liquid Silicone TPU | Camera Protection | Shockproof Slim Back Case for Vivo Y12 / Y15 / Y17 / U10 (Green) 3.9 out of 5 stars 591  Price, product page₹199₹199 M.R.P: ₹999M.R.P: ₹999₹999 (80% off) FREE delivery Wed, 4 Jun on ₹499 of items fulfilled by AmazonOr fastest delivery Tomorrow, 3 Jun Add to cart\n' +
+    '\n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    SponsoredSponsored You are seeing this ad based on the product’s relevance to your search query.Let us know  Pikkme Vivo Y12 / Y15 / Y17 / U10 Leather Flip Cover Wallet Case (Vivo Y12 / Y15 / Y17 / U10, Brown) 4.0 out of 5 stars 128  Price, product page₹299₹299 M.R.P: ₹999M.R.P: ₹999₹999 (70% off) FREE delivery Wed, 4 Jun on ₹499 of items fulfilled by AmazonOr fastest delivery Tomorrow, 3 Jun Add to cart\n' +
+    '\n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    SponsoredSponsored You are seeing this ad based on the product’s relevance to your search query.Let us know  Pikkme Vivo Y12 / Y15 / Y17 / U10 Flip Cover | Dual-Tone PU Leather Finish | 360 Protection | Inbuilt Wallet & Stand | Magnetic Flip Case for Vivo Y12 / Y15 / Y17 / U10 (Blue & Brown) 4.0 out of 5 stars 11  Price, product page₹249₹249 M.R.P: ₹999M.R.P: ₹999₹999 (75% off) FREE delivery Sat, 7 Jun on ₹499 of items fulfilled by AmazonAdd to cart\n' +
+    '\n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    SponsoredSponsored You are seeing this ad based on the product’s relevance to your search query.Let us know  FitSmart Shockproof Crystal Clear TPU Soft Flexible Back Cover for vivo Y12 / 1904 -(Transparent, Silicone) 3.9 out of 5 stars 4  Price, product page₹225₹225 M.R.P: ₹699M.R.P: ₹699₹699 (68% off) FREE delivery Sat, 7 Jun Or fastest delivery Wed, 4 Jun Add to cart\n' +
+    '\n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    SponsoredSponsored You are seeing this ad based on the product’s relevance to your search query.Let us know  Pikkme Vivo Y12 / Y15 / Y17 / U10 Flip Cover | Dual-Tone PU Leather Finish | Wallet Style & Stand | Magnetic Flip Case for Vivo Y12 / Y15 / Y17 / U10 (Black & Brown) 3.7 out of 5 stars 14  Limited time deal   Price, product page₹199₹199 M.R.P: ₹999M.R.P: ₹999₹999 (80% off) FREE delivery Thu, 5 Jun on ₹499 of items fulfilled by AmazonOr fastest delivery Tomorrow, 3 Jun Add to cart\n' +
+    '\n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    SponsoredSponsored You are seeing this ad based on the product’s relevance to your search query.Let us know  HANIRY Customized Photo Printed Back Cover for VIVO Y12 | Vivo 1904 | Personalized Photo Print Cover | Customize Photo Printed Mobile Back Cover | Customized Keychain Free | VML02 Options:1 image, 2 text inputs1 image, 2 text inputsPrice, product page₹299₹299 (₹29,900₹29,900/100 g) M.R.P: ₹999M.R.P: ₹999₹999 (70% off)FREE delivery Sat, 7 Jun See optionsPersonalise it\n' +
+    '\n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '\n' +
+    '        \n' +
+    '\n' +
+    '        \n' +
+    '            \n' +
+    '                \n' +
+    '                    \n' +
+    '                        \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '    \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '        \n' +
+    '            \n' +
+    '        \n' +
+    '        \n' +
+    '        \n' +
+    '        \n' +
+    '            \n' +
+    '            \n' +
+    '                \n' +
+    '                    \n' +
+    '                        Debug info copied.\n' +
+    '                    \n' +
+    '                \n' +
+    '            \n' +
+    '        \n' +
+    '    \n' +
+    '    \n' +
+    '        \n' +
+    '            \n' +
+    '\n' +
+    '    \n' +
+    '    Group 5\n' +
+    '    Created with Sketch.\n' +
+    '    \n' +
+    '        \n' +
+    '        \n' +
+    '            \n' +
+    '            \n' +
+    '            \n' +
+    '        \n' +
+    '        \n' +
+    '            \n' +
+    '            \n' +
+    '            \n' +
+    '            \n' +
+    '                \n' +
+    '                \n' +
+    '            \n' +
+    '        \n' +
+    '    \n' +
+    '    \n' +
+    '        \n' +
+    '            \n' +
+    '                \n' +
+    '                    \n' +
+    '                        \n' +
+    '                            \n' +
+    '                            \n' +
+    '                        \n' +
+    '                        \n' +
+    '                            \n' +
+    '                        \n' +
+    '                    \n' +
+    '                    \n' +
+    '                \n' +
+    '            \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '        \n' +
+    '    \n' +
+    '    \n' +
+    '        \n' +
+    '        \n' +
+    '            \n' +
+    '                \n' +
+    '    \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '            \n' +
+    '        \n' +
+    '        \n' +
+    '            \n' +
+    '                \n' +
+    '                    \n' +
+    '    \n' +
+    '    \n' +
+    '    \n' +
+    '    \n' +
+    '        \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '                \n' +
+    '            \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '                    \n' +
+    '                    \n' +
+    '                        Sponsored Friends Classic Adult Diapers Pants Style - 30 Count (Medium) with odour lock, Unisex, Leakproof, Elastic Waist and Anti-Bacterial Absorbent Core - Waist Size 25-48 inch; 63.5-122 cm 4.2 out of 5 stars 4,956  1K+ bought in past monthPrice, product page₹819₹819 (₹27.30₹27.30/count) M.R.P: ₹1,650M.R.P: ₹1,650₹1,650 (50% off)Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICI…Save 5% more with Subscribe & Save FREE delivery Fri, 6 Jun \n' +
+    '                    \n' +
+    '                \n' +
+    '            \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '    \n' +
+    `    if(window.mix_csa){window.mix_csa('[cel_widget_id="multi-brand-creative-desktop_loom-desktop-brand-footer-slot_88"]', '#CardInstanceXaej-O3INC_BJFR4LbWlpA')('mark', 'bb')}\n` +
+    "if(window.uet){window.uet('bb','multi-brand-creative-desktop_loom-desktop-brand-footer-slot_88',{wb: 1})}\n" +
+    '._bXVsd_ad-feedback-primary-link_2bIZi{height:30px;margin-bottom:7px;margin-top:4px;min-width:75px}._bXVsd_ad-feedback-text_2HjQ9{color:#555;font-family:Amazon Ember Regular,Amazon Ember,Arial;font-size:11px;padding:8.5px 0}._bXVsd_ad-feedback-text_2HjQ9:focus,._bXVsd_ad-feedback-text-desktop_q3xp_:focus{border-radius:5px;outline:3px solid #35798a}._bXVsd_ad-feedback-sprite_28uwB{background-color:transparent;background-image:url(https://m.media-amazon.com/images/G/01/ad-feedback/New-info-icon-sprite-1x.png);background-position:0 0;width:14px}._bXVsd_ad-feedback-sprite-mobile_2_rj8,._bXVsd_ad-feedback-sprite_28uwB{background-repeat:no-repeat;color:#969696;display:inline-block;height:12px;margin:1px 0 1px 3px;vertical-align:text-top}._bXVsd_ad-feedback-sprite-mobile_2_rj8{background-image:url(https://m.media-amazon.com/images/G/01/ad-feedback/new_info_icon_3x.png);background-size:contain;width:12px}._bXVsd_ad-feedback-text-desktop_q3xp_{color:#555;cursor:pointer;display:inline-block;font-family:Amazon Ember Regular,Amazon Ember,Arial;font-size:11px;padding:2px 0;right:0;top:2px}._bXVsd_ad-feedback-loading-spinnner_1nmZw{margin-left:45%;margin-top:250px}._bXVsd_ad-feedback-loading-spinnner-rtl_2BoOY{margin-right:45%;margin-top:250px}\n' +
+    '._bXVsd_carousel_2NzSs{display:-webkit-box;display:-ms-flexbox;display:flex;overflow:hidden;padding-right:2px;width:100%}._bXVsd_headlineWrapper_1tHAx,._bXVsd_col_Tdevo{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}._bXVsd_headlineWrapper_1tHAx,._bXVsd_track_Be0y7,._bXVsd_block_3tqiN{display:-webkit-box;display:-ms-flexbox;display:flex}._bXVsd_track_Be0y7{position:relative;-webkit-transition:-webkit-transform .3s;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s;width:100%}._bXVsd_container_3THMs{border:1px solid #ccc;height:177px;max-width:472px;min-width:351px;width:100%}._bXVsd_mbc_3g532,._bXVsd_mbc_3aFoX,._bXVsd_wFull_1M3az{width:100%}._bXVsd_enhancedMBC_t2T1G,._bXVsd_enhancedMBC_1JWZT{padding:0 50px;position:relative}._bXVsd_enhancedMBC_t2T1G ._bXVsd_container_3THMs{max-width:calc(50% - 12px);min-width:calc(50% - 12px)}._bXVsd_container_3THMs:not(:first-child),._bXVsd_container_36eK4:not(:first-child){margin-left:24px}._bXVsd_butNext_1UY_f,._bXVsd_butPrev_X0cih,._bXVsd_butNext_jCET5,._bXVsd_butPrev_3fkJO{position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}._bXVsd_butNext_1UY_f button,._bXVsd_butPrev_X0cih button,._bXVsd_butNext_jCET5 button,._bXVsd_butPrev_3fkJO button{-webkit-box-align:center;-ms-flex-align:center;-webkit-box-pack:center;-ms-flex-pack:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;justify-content:center}._bXVsd_butPrev_X0cih,._bXVsd_butPrev3PSL_3seh9{left:10px}._bXVsd_butPrev_X0cih button,._bXVsd_butPrev_3fkJO button{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}._bXVsd_butNext_1UY_f,._bXVsd_butNext3PSL_2VZxe{right:10px}._bXVsd_outlineOverride_3p_tj:focus,._bXVsd_outlineOverride_15YJv:focus{outline:0!important;outline-offset:0!important}._bXVsd_outlineOverride_3p_tj:focus:after,._bXVsd_outlineOverride_15YJv:focus:after{border:3px solid #007185;box-sizing:border-box;content:"";height:100%;left:0;position:absolute;top:0;width:100%}._bXVsd_unstyledListElement_2woEs{list-style-type:none;margin:0;padding:0}[dir=rtl] ._bXVsd_container_3THMs:not(:first-child),[dir=rtl] ._bXVsd_container_36eK4:not(:first-child){margin-left:0;margin-right:24px}[dir=rtl] ._bXVsd_carousel_2NzSs,[dir=rtl] ._bXVsd_carousel_3dgog{padding-left:2px;padding-right:0}[dir=rtl] ._bXVsd_butPrev_X0cih,[dir=rtl] ._bXVsd_butPrev_3fkJO{left:auto;right:0}[dir=rtl] ._bXVsd_butNext_1UY_f,[dir=rtl] ._bXVsd_butNext_jCET5{left:0;right:auto}@media (max-width:1549px){._bXVsd_track_Be0y7[data-enhanced-mbc=false] ._bXVsd_container_3THMs[data-index="2"]{display:none}}._bXVsd_mainImage_SOTMo,._bXVsd_mainImage_2iYKH,._bXVsd_container_3vH0A,._bXVsd_tinted_wCUfI,._bXVsd_section_2lZar{position:relative}._bXVsd_mainImageLink_7NqFa{-webkit-box-align:center;-ms-flex-align:center;-webkit-box-pack:center;-ms-flex-pack:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;height:175px;justify-content:center;padding:18px;position:relative;width:175px}._bXVsd_trueBrandLogoPadding_2F6Mz{padding:37.5px 18px}._bXVsd_infoWrapper_w6zHh{-webkit-box-flex:1;-ms-flex-positive:1;-webkit-box-pack:center;-ms-flex-pack:center;flex-grow:1;justify-content:center;padding:8px 14px}._bXVsd_trueBrandLogo_rWZ3k{margin-bottom:10px;max-height:40px;max-width:80px}._bXVsd_search3PSL12OF16_1xQ3G,._bXVsd_search3PSL12OF16_B_1Ak{max-width:1122px;min-width:747px;width:calc(75vw - 21px);width:750px}._bXVsd_adFeedbackWrapper_2lmrf{-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content}._bXVsd_adFeedbackWrapper_2lmrf div[class*=ad-feedback-primary-link],._bXVsd_adFeedbackWrapper_5HhSK div[class*=ad-feedback-primary-link]{margin-bottom:0}@media (min-width:100px){._bXVsd_search3PSL12OF16_1xQ3G{min-width:747px;width:calc(75vw - 114.75px)}}@media (min-width:130px) and (min-width 1280px){._bXVsd_search3PSL12OF16_1xQ3G{min-width:649.5px;width:calc(75vw - 118.5px)}}@media (min-width:1280px) and (min-width 1380px){._bXVsd_search3PSL16OF20_3_Dt5{min-width:692.8px;width:calc(80vw - 126.4px)}}._bXVsd_enhancedMBC_1JWZT ._bXVsd_container_36eK4{max-width:calc(33.33% - 16px);min-width:calc(33.33% - 16px)}._bXVsd_butPrev_3fkJO{left:0}._bXVsd_butNext_jCET5{right:0}._bXVsd_container_36eK4{border:1px solid #ccc;height:100%;max-width:460px;min-width:300px;overflow:hidden;position:relative;width:33.3%}._bXVsd_carousel_3dgog{overflow:hidden;padding-right:2px}._bXVsd_carousel_3dgog,._bXVsd_track_176sq,._bXVsd_carousel_3-Fvk{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%}._bXVsd_track_176sq{position:relative;-webkit-transition:-webkit-transform .3s;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s}@media (max-width:1000px){._bXVsd_track_176sq[data-enhanced-mbc=false][data-is-search=false] ._bXVsd_container_36eK4{width:50%}._bXVsd_track_176sq[data-enhanced-mbc=false][data-is-search=false] ._bXVsd_container_36eK4[data-index="2"]{display:none}}@media (max-width:1200px){._bXVsd_track_176sq[data-enhanced-mbc=false][data-is-search=true] ._bXVsd_container_36eK4{width:50%}._bXVsd_track_176sq[data-enhanced-mbc=false][data-is-search=true] ._bXVsd_container_36eK4[data-index="2"]{display:none}}._bXVsd_adFeedbackWrapper_5HhSK{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content}@media (min-width:100px){._bXVsd_search3PSL12OF16_B_1Ak{min-width:747px;width:calc(75vw - 114.75px)}}@media (min-width:130px) and (min-width 1280px){._bXVsd_search3PSL12OF16_B_1Ak{min-width:649.5px;width:calc(75vw - 118.5px)}}@media (min-width:1280px) and (min-width 1380px){._bXVsd_search3PSL16OF20_1JUCO{min-width:692.8px;width:calc(80vw - 126.4px)}}._bXVsd_maintainAspectRatio_3RUsA{aspect-ratio:458/239}._bXVsd_customImageContainer_2zboF{display:-webkit-box;display:-ms-flexbox;display:flex;max-height:100%;max-width:460px}._bXVsd_customImageContainer_2zboF img{aspect-ratio:458/239;-o-object-fit:cover;object-fit:cover;-o-object-position:center top;object-position:center top}._bXVsd_logoContainer_hP7uf{height:72px;padding:12px 0}._bXVsd_headlineContainer_3qJ82,._bXVsd_logoContainer_hP7uf{-webkit-box-pack:center;-ms-flex-pack:center;display:-webkit-box;display:-ms-flexbox;display:flex;justify-content:center}._bXVsd_hoverContainer_2iylv{display:block;height:72px;pointer-events:all;position:relative;text-decoration:none;width:100%}._bXVsd_hoverMovement_2EyuO{background-color:#fff;left:0;position:absolute;top:100%;-webkit-transform:translateY(-72px);-ms-transform:translateY(-72px);transform:translateY(-72px);-webkit-transition:all .4s ease-in-out;transition:all .4s ease-in-out;width:100%;z-index:5}._bXVsd_container_2mwhv:hover ._bXVsd_hoverContainer_2iylv ._bXVsd_hoverMovement_2EyuO,._bXVsd_container_2mwhv[focus-within] ._bXVsd_hoverContainer_2iylv ._bXVsd_hoverMovement_2EyuO,._bXVsd_container_2mwhv:focus-within ._bXVsd_hoverContainer_2iylv ._bXVsd_hoverMovement_2EyuO{-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%)}._bXVsd_flex1_3yau7{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}._bXVsd_flex0_1hrtP{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0}._bXVsd_constrainImage_rwf7K{max-height:100%!important;max-width:139px!important}\n' +
+    '._bXVsd_hidden_2AumH,._bXVsd_debug_3_GLQ,._bXVsd_hidden_3bo5N,[data-id*=cta-hidden]{display:none}\n' +
+    '._bXVsd_content_3HyR_{height:100%;width:auto}._bXVsd_content_3HyR_ a{position:relative!important;top:0!important}._bXVsd_sponsored_1XwD5{color:#555;display:inline-block;font:11px Amazon Ember Regular,Amazon Ember,Arial!important}._bXVsd_sponsored_1XwD5._bXVsd_simulate_3gewk:hover{color:#111;cursor:pointer;text-decoration:none}._bXVsd_icon_37kKh{background:url(https://m.media-amazon.com/images/G/01/ad-feedback/info_icon_1Xsprite.png) 0 0 no-repeat scroll transparent;display:inline-block;height:12px;margin:1px 0;vertical-align:top;width:14px}._bXVsd_simulate_3gewk:hover ._bXVsd_icon_37kKh{background-position:0 -12px}\n' +
+    '._bXVsd_pixel_3yBgA{position:absolute;visibility:hidden}\n' +
+    '._bXVsd_image_iVomf{max-height:100%;max-width:100%}._bXVsd_center_3qHkA{left:50%;position:absolute;top:50%;-webkit-transform:translate('... 7313 more characters,
+  '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '            \n' +
+    '                Need help?\n' +
+    '            \n' +
+    '            \n' +
+    '                \n' +
+    '                \n' +
+    '                Visit the help section or contact us\n' +
+    '                \n' +
+    '            \n' +
+    '        \n' +
+    '    \n' +
+    '\n' +
+    '\n',
+  '\n' +
+    '\n' +
+    '    \n' +
+    '        \n' +
+    '    \n' +
+    '    \n' +
+    '\n' +
+    '    \n' +
+    '        window.renderingWeblabs = window.renderingWeblabs ? window.renderingWeblabs : {};\n' +
+    `        window.renderingWeblabs = Object.assign(window.renderingWeblabs, JSON.parse('{"APM_STORES_JPS_JRS_SAFEFRAME_UX_ELEMENT_OBSTRUCTION_DETECTION_1220127":"T5","ADPT_SF_LIGHTADS_REFACTOR_903064":"C","A2I_HOMEPAGE_CARD_THEMING_360311":"C","APM_STORES_JPS_JRS_SAFEFRAME_REMOVE_ALLOW_SAME_ORIGIN_1210497":"C","ADPT_SF_METRICS_LOGGING_1100263":"C","APM_STORES_JPS_JRS_SAFEFRAME_VIEW_OBSTRUCTIONS_1226495":"T1","APM_STORES_JPS_JRS_SAFEFRAME_WRAPPERS_NEW_WAIT_FOR_APE_SF_1194369":"T1","ADPT_SF_BTR_AND_VIEW_PIXEL_FIRING_1201741":"T1","APM_STORES_JPS_JRS_SAFEFRAME_A11Y_PLACEMENT_SCALING_1218301":"T1"}'));\n` +
+    '    \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '(()=>{var e;class a{}e=a,a.startSafeFrameCSM=new Map,a.startSafeFrameCSA=new Map,a.startSafeFrameCSMMetrics=a=>{e.startSafeFrameCSM.set(a,new Date)},a.startSafeFrameCSAMetrics=a=>{e.startSafeFrameCSA.set(a,new Date)};const t=(e,a)=>{var t,n,r;null===(n=performance)||void 0===n||null===(t=n.mark)||void 0===t||t.call(n,`Safeframe wrapper: (${null!==(r=null==a?void 0:a.adUnitPlacementId)&&void 0!==r?r:""}) (${e})`)},n=(e,a)=>{const n=document.getElementById(a);return n?(t(`${a} exists`),Promise.resolve(n)):new Promise((n=>{new MutationObserver(((e,r)=>{const o=document.getElementById(a);o&&(t(`${a} found during mutation`),r.disconnect(),n(o))})).observe(e,{subtree:!0,childList:!0})}))},r=async(e=5e3,a=10)=>window.APE_SF?(t("APE_SF exists"),window.APE_SF):new Promise(((n,r)=>{const o=setInterval((()=>{window.APE_SF&&(t("APE_SF found in setInterval"),clearInterval(o),n(window.APE_SF))}),a);setTimeout((()=>{clearInterval(o);const e="Timed out waiting for APE_SF";t(e),r(new Error(e))}),e)})),o=e=>{var a;if(""===e)return"";const t=`ape_${e}_placement_ClickTracking`,n=document.getElementById(t);var r;return null!==(r=null==n||null===(a=n.getAttribute)||void 0===a?void 0:a.call(n,"data-val"))&&void 0!==r?r:""},s=(e,a,{placementName:t})=>{const n=o(t),r={command:"percolateClickTracking",data:n};a.postMessage(r),e.setAttribute("data-sent-percolate-click-tracking-params",n)};window.grandprix||(window.grandprix={metrics:a,wrappers:class{static listenForSFIFrameLoad(e,a){window.addEventListener("message",(async r=>{var o;if("sf iframe ready"!==r.data)return;const i=document.getElementById(a);if(null===i)return;const d=await n(i,e);if(r.source!==d.contentWindow)return;const l=JSON.parse(d.getAttribute("name"));var c;d.setAttribute("data-iframe-ready","true"),t("data-iframe-ready",l);const m=null!==(c=r.ports[0])&&void 0!==c?c:null===(o=r.data)||void 0===o?void 0:o.messagePort;s(d,m,l),this.fastSafeFrameLoad(l,`sf-host-load_${a}`,m)}))}static async fastSafeFrameLoad(e,n,o){try{var s,i;if(t("fastSafeFrameLoad start",e),"T1"===(null===(i=window.renderingWeblabs)||void 0===i||null===(s=i.APM_STORES_JPS_JRS_SAFEFRAME_WRAPPERS_NEW_WAIT_FOR_APE_SF_1194369)||void 0===s?void 0:s.toUpperCase())){return void(await r()).setupMessageChannel(o,e,a.startSafeFrameCSM.get(e.adUnitPlacementId))}window.APE_SF||(t("waitUntilElementExists",e),await((e=10,a=2e4)=>new Promise(((t,n)=>{const r=Date.now(),o=setInterval((()=>{var e,s;if(window.APE_SF)null===(s=performance)||void 0===s||null===(e=s.mark)||void 0===e||e.call(s,"SafeFrame: Host found inside waitForWindowHostVariable"),clearInterval(o),t();else if(Date.now()-r>=a){var i,d;clearInterval(o),null===(d=performance)||void 0===d||null===(i=d.mark)||void 0===i||i.call(d,"Timed out waiting for sf host in waitForWindowHostVariable"),n()}}),e)})))()),window.APE_SF?(t("host exists",e),window.APE_SF.secondPhaseLoadAd("not used",e,o,a.startSafeFrameCSM.get(e.adUnitPlacementId))):(t("host doesn\'t exists",e),document.getElementById(n).addEventListener("load",(n=>{t("SF host loaded",e),window.APE_SF.secondPhaseLoadAd("not used",e,o,a.startSafeFrameCSM.get(e.adUnitPlacementId))})))}catch(e){var d,l;console.error(e),null===(d=(l=window).ueLogError)||void 0===d||d.call(l,e,{logLevel:"ERROR",attribution:"APE-safeframe",message:""})}}}})})();\n' +
+    '//# sourceMappingURL=grandprix.js.map\n' +
+    '\n' +
+    '        \n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '    \n' +
+    '\n' +
+    '    \n' +
+    '        try {\n' +
+    '            if (window.ue && typeof window.ue.count === "function") {\n' +
+    '                window.ue.count("adplacements:adload:htmlreached:Search_auto-bottom-advertising-0_portal-batch-fast-btf-loom".replace(/_/g, ":"), 1);\n' +
+    '                window.ue.count("adplacements:adload:htmlreached:eaaacc99-22b3-4f2a-a1df-88f8c715a191", 1);\n' +
+    '            }\n' +
+    '            if (window.csa) {\n' +
+    '                window.csa("Events", {\n' +
+    '                    producerId: "adplacements"\n' +
+    '                })(\n' +
+    '                    "log",\n' +
+    '                    {\n' +
+    '                        schemaId: "ApeSafeframe.csaEvent.1",\n' +
+    '                        metricName: "adload:htmlreached:Search_auto-bottom-advertising-0_portal-batch-fast-btf-loom:eaaacc99-22b3-4f2a-a1df-88f8c715a191",\n' +
+    '                        metricValue: 1\n' +
+    '                    },\n' +
+    '                    { ent: "all" }\n' +
+    '                );\n' +
+    '            }\n' +
+    '        } catch (ex) {\n' +
+    '        }\n' +
+    '        window.grandprix.metrics.startSafeFrameCSMMetrics("ape_Search_auto-bottom-advertising-0_portal-batch-fast-btf-loom_414b6b07-0e90-4745-8694-e6384a131311_placement");\n' +
+    '        window.grandprix.metrics.startSafeFrameCSAMetrics("ape_Search_auto-bottom-advertising-0_portal-batch-fast-btf-loom_414b6b07-0e90-4745-8694-e6384a131311_placement");\n' +
+    '    \n' +
+    '\n' +
+    '    \n' +
+    '    \n' +
+    '    \n' +
+    '    window.grandprix.wrappers.listenForSFIFrameLoad("ape_Search_auto-bottom-advertising-0_portal-batch-fast-btf-loom_414b6b07-0e90-4745-8694-e6384a131311_iframe", "ape_Search_auto-bottom-advertising-0_portal-batch-fast-btf-loom_414b6b07-0e90-4745-8694-e6384a131311_placement", (function() {return window.DAsf;}));\n' +
+    '        \n' +
+    '    \n' +
+    '    (function (window, document, Math) {\n' +
+    '    try {\n' +
+    '        var changeLinkColor = function () {\n' +
+    `            document.getElementById("ad-feedback-text-auto-bottom-advertising-0").style.color = '#111111';\n` +
+    `            document.getElementById("ad-feedback-sprite-auto-bottom-advertising-0").style.background = 'transparent url("https://m.media-amazon.com/images/G/01/ad-feedback/New-info-icon-sprite-1x.png") no-repeat 0px -12px';\n` +
+    '        }\n' +
+    '        var onClick = function() {\n' +
+    "             P.when('A').execute( function(A) {\n" +
+    "                 A.on( 'a:popover:beforeShow', function() {\n" +
+    '                     if(window.uet) {\n' +
+    "                         window.uet('bb', 'adFeedback:desktkop:feedbackForm:time', {wb: 1});\n" +
+    '                     }\n' +
+    '                 });\n' +
+    "                 A.on( 'a:popover:ajaxSuccess', function() {\n" +
+    '                     if(window.ue && window.ue.count) {\n' +
+    '                         window.ue.count("adFeedback:desktop:feedbackForm:success", 1);\n' +
+    '                     }\n' +
+    '                     if(window.uet) {\n' +
+    "                         window.uet('be', 'adFeedback:desktkop:feedbackForm:time', {wb: 1});\n" +
+    '                     }\n' +
+    '                     if(window.uex) {\n' +
+    "                         window.uex('ld', 'adFeedback:desktkop:feedbackForm:time', {wb: 1});\n" +
+    '                     }\n' +
+    '                 });\n' +
+    "                 A.on( 'a:popover:ajaxFail', function() {\n" +
+    '                     if(window.ue && window.ue.count) {\n' +
+    '                         window.ue.count("adFeedback:desktop:feedbackForm:failure", 1);\n' +
+    '                     }\n' +
+    '                     if(window.uet) {\n' +
+    "                         window.uet('be', 'adFeedback:desktkop:feedbackForm:time', {wb: 1});\n" +
+    '                     }\n' +
+    '                     if(window.uex) {\n' +
+    "                         window.uex('ld', 'adFeedback:desktkop:feedbackForm:time', {wb: 1});\n" +
+    '                     }\n' +
+    '                 });\n' +
+    '             });\n' +
+    '        }\n' +
+    '        var defaultLinkBehaviour = function() {\n' +
+    `            document.getElementById("ad-feedback-text-auto-bottom-advertising-0").style.textDecoration = 'none';\n` +
+    `            document.getElementById("ad-feedback-text-auto-bottom-advertising-0").style.color = '#555555';\n` +
+    `            document.getElementById("ad-feedback-sprite-auto-bottom-advertising-0").style.background = 'transparent url("https://m.media-amazon.com/images/G/01/ad-feedback/New-info-icon-sprite-1x.png") no-repeat scroll 0px 0px';\n` +
+    '        }\n' +
+    '        var addFocusStyling = function () {\n' +
+    `            document.getElementById("af-label-primary-link-auto-bottom-advertising-0").style.outline = '3px solid #35798a';\n` +
+    `            document.getElementById("af-label-primary-link-auto-bottom-advertising-0").style.borderRadius = '5px';\n` +
+    '        }\n' +
+    '        var removeFocusStyling = function () {\n' +
+    `            document.getElementById("af-label-primary-link-auto-bottom-advertising-0").style.outline = 'none';\n` +
+    `            document.getElementById("af-label-primary-link-auto-bottom-advertising-0").style.borderRadius = '0';\n` +
+    '        }\n' +
+    'window.addFocusStyling8b51de7a662948c99e521e249a0c3fd6 = addFocusStyling;\n' +
+    'window.removeFocusStyling8b51de7a662948c99e521e249a0c3fd6 = removeFocusStyling;\n' +
+    'window.changeLinkColor8b51de7a662948c99e521e249a0c3fd6 = changeLinkColor;\n' +
+    'window.defaultLinkBehaviour8b51de7a662948c99e521e249a0c3fd6 = defaultLinkBehaviour;\n' +
+    'window.onClick8b51de7a662948c99e521e249a0c3fd6 = onClick;\n' +
+    '    } catch(ex) {\n' +
+    '        console.log("Error in link-rendering-js desktop") \n' +
+    '        if(window.ueLogError) {\n' +
+    '            var additionalInfo = {\n' +
+    "                logLevel : 'FATAL',\n" +
+    "                attribution : 'Ad Feedback Desktop',\n" +
+    "                message : 'Error in Feedback js desktop '\n" +
+    '            };\n' +
+    '            window.ueLogError(ex, additionalInfo);\n' +
+    '        }\n' +
+    '    }\n' +
+    '})(window, document, Math);\n' +
+    '     Sponsored\n' +
+    '        \n' +
+    '\n' +
+    '\n' +
+    '\n'
+]

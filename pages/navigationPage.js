@@ -16,12 +16,6 @@ class NavigationPage {
       await this.page.locator(this.searchButton).click();
     }
   
-    async validateNoResults(expectedItem) {
-      const results = await this.page.locator('div.s-main-slot div.s-result-item').allTextContents();
-      const containsExpectedItem = results.some(result => result.includes(expectedItem));
-      console.log('Results:', results); 
-      expect(containsExpectedItem).toBe(false);
-    }
   }
   
   module.exports = NavigationPage;

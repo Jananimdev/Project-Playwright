@@ -16,3 +16,5 @@ class JSONHandler {
 }
 
 module.exports = JSONHandler;
+
+//Why i kept JsonHandler in Utils means because it doesnt need any environmnet to perform the task 

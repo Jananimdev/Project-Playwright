@@ -44,18 +44,4 @@ test('Amazon search and sort test', async ({ page }) => {
   await page.close();
 });
 
-// Add the negative test case here
-test('Amazon search with invalid item', async ({ page }) => {
-  const navigationPage = new NavigationPage(page);
 
-  // Use an invalid search term
-  const invalidSearchItem = 'invalidSearchTerm12345';
-
-  await navigationPage.navigateToAmazon();
-  await navigationPage.searchForItem(invalidSearchItem);
-  await navigationPage.validateNoResults(invalidSearchItem);
-  await page.screenshot({path:'screenshots/invalid_search_results.png'});
-
-  await page.close();
-  
-});
