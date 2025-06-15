@@ -24,11 +24,10 @@ test('Amazon search and sort test', async ({ page }) => {
   await searchResultsPage.validateResults();
   await sortPage.sortByNewestArrivals();
   await page.screenshot({path:'screenshots/sorted_results.png'});
-
+  
   // Get sort options count
   const sortOptionsCount = await sortPage.getSortOptionsCount();
   console.log(sortOptionsCount);
-
   // Collect output data
   const outputData = {
     searchItem: config.searchItem,

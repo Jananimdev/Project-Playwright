@@ -12,6 +12,7 @@ class SortPage {
       const targetElement = this.page.locator(`ul.a-nostyle.a-list-link li:has-text("${targetText}")`);
       await targetElement.click();
       const selectedText = await targetElement.innerText();
+      
       expect(selectedText).toBe(targetText);
     }
   

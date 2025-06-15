@@ -103,11 +103,18 @@ use: {
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
+      //viewport: { width: 1280, height: 720 }, //to view in mobile
     },
     {
       name: 'Microsoft Edge',
       use: { ...devices['Desktop Edge'], channel: 'msedge' },
     },
+    // {
+    // name: 'Mobile Safari',
+    //   use: {
+    //     ...devices['iPhone 13'],
+    //   },
+    // }, //to emulate mobile devices 
   ],
 });
 
